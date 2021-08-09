@@ -20,7 +20,7 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: jiyoung@domain.com
+      value: yourmail@domain.com
       link: mailto:yourmail@domain.com
 
   follow:
