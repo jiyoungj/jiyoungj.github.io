@@ -11,29 +11,29 @@ Articulatory and acoustic phonetics ・ phonetics-prosody interface ・ L2 acqui
 
 <h3>Publications</h3>
 
- <h5>JOURNAL ARTICLES</h5>
+ <h4>Journal Articles</h4>
 
-  <h5>2018</h5>
+  <h4>2018</h4>
    <p class="leftmargin"><b>Jang, J.</b>, Kim, S., & Cho, T. (2018). Focus and boundary effects on coarticulatory vowel nasalization in Korean with implications for cross-linguistic similarities and differences. <em>The Journal of the Acoustical Society of America</em>, 144(1), EL33-39.</p>
 
-  <h5>2017</h5>
+  <h4>2017</h4>
    <p class="leftmargin">Kim, S., <b>Jang, J.</b>, & Cho, T. (2017). Articulatory characteristics of preboundary lengthening in interaction with prominence on tri-syllabic words in American English. <em>The Journal of the Acoustical Society of America</em>, 142(4), EL362-368.</p>
 
 <br>
 
-<h5>PEER-REVIEWED PROCEEDINGS</h5>
+<h4>PEER-REVIEWED PROCEEDINGS</h4>
 
- <h5>2020</h5>
+ <h4>2020</h4>
   <p class="leftmargin"><b>Jang, J.</b>, & Katsika, A. (2020). The amount and scope of phrase-final lengthening in Seoul Korean. <em> Proceedings of the 10th International Conference on Speech Prosody</em>, 270-274.</p>
 
   <p class="leftmargin">Katsika, A., <b>Jang, J.</b>, Krivokapić, J., Goldstein, L.,& Saltzman, E. (2020). The role of focus in accentual lengthening in American English: Kinematic analyses. <em>Proceedings of the 10th International Conference on Speech Prosody</em>, 275-279.</p>
 
- <h5>2019</h5>
+ <h4>2019</h4>
   <p class="leftmargin"><b>Jang, J.</b>, Kim, S., & Cho, T. (2019). Prosodic-structural effects on voice quality associated with Korean three-way stop contrast. <em>Proceedings of the 19th International Congress of Phonetic Sciences</em>, 2416-2420.</p>
 
   <p class="leftmargin">Joo, H., <b>Jang, J.</b>, Kim, S., Cho, T., & Cutler, A. (2019). Prosodic structural effects on coarticulatory vowel nasalization in Australian English in comparison to American English. <em>Proceedings of the 19th International Congress of Phonetic Sciences</em>, 835-839.</p>
 
- <h5>2015</h5>
+ <h4>2015</h4>
   <p class="leftmargin">Choi, J., Cho, T., Kim, S., Baek, Y., & <b>Jang, J</b>. (2015). Phonetic encoding of coda voicing contrast and its interaction with information structure in L1 and L2 speech. <em>Proceedings of the 18th International Congress of Phonetics Sciences</em>.</p>
 
 <h6><br></h6>
