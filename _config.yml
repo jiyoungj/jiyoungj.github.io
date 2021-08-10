@@ -5,14 +5,14 @@ title: Jiyoung Jang
 description: >- # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of the site
-url: "https://jiyoungj.github.io" # the base hostname & protocol for the site
+url: "https://jiyoungj.github.io/" # the base hostname & protocol for the site
 og_image: /assets/img/profile.png
 google_analytics: "UA-174916760-1"
 
 header:
   pages:
     - name: Home
-      slug: /
+      slug: /home/
     - name: Research
     - name: Contact
 
@@ -22,9 +22,9 @@ footer:
     - name: Email
       value: yourmail@domain.com
       link: mailto:yourmail@domain.com
-  follow:
-    - name: GitHub
-      link: http://github.com/YourGitHubUsername
+#  follow:
+#    - name: GitHub
+#      link: http://github.com/YourGitHubUsername
 
 # Build settings
 markdown: kramdown
