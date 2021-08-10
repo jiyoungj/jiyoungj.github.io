@@ -54,11 +54,11 @@ Articulatory and acoustic phonetics ・ phonetics-prosody interface ・ L2 acqui
 
   <p class="leftmargin">Katsika, A., <b>Jang, J.</b>, Goldstein, L., Krivokapić, J., & Saltzman, E. The kinematics of prominence in American English. Poster presentation at the <em>178th Meeting of the Acoustical Society of America (ASA)</em>, San Diego, California, US, December 2019.</p>
 
-  <b>Jang, J.</b>, Kim, S., & Cho, T. Prosodic-structural effects on voice quality associated with Korean three-way stop contrast. Poster presentation at the <em>19th International Congress of Phonetic Sciences (ICPhS)</em>, Melbourne, Australia, August 2019.</p>
+  <p class="leftmargin"><b>Jang, J.</b>, Kim, S., & Cho, T. Prosodic-structural effects on voice quality associated with Korean three-way stop contrast. Poster presentation at the <em>19th International Congress of Phonetic Sciences (ICPhS)</em>, Melbourne, Australia, August 2019.</p>
 
   <p class="leftmargin">Joo, H., <b>Jang, J.</b>, Kim, S., Cho, T., & Cutler, A. Prosodic structural effects on coarticulatory vowel nasalization in Australian English in comparison to American English. Oral presentation at the <em>19th International Congress of Phonetic Sciences (ICPhS)</em>, Melbourne, Australia, August 2019.</p>
 
-  <p class="leftmargin"><b>Jang, J.</b>, Kim, S. & Cho, T. Effects of prosodic structure on voice quality associated with Korean three-way stop contrast. Poster presentation at the <em>Hanyang International Symposium on Phonetics and Cognitive Sciences of Language (HISPhonCog) 2019</em>, Seoul, South Korea, May 2019.</p><
+  <p class="leftmargin"><b>Jang, J.</b>, Kim, S. & Cho, T. Effects of prosodic structure on voice quality associated with Korean three-way stop contrast. Poster presentation at the <em>Hanyang International Symposium on Phonetics and Cognitive Sciences of Language (HISPhonCog) 2019</em>, Seoul, South Korea, May 2019.</p>
 
  <div class="year">2018</div>
 
