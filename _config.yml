@@ -5,14 +5,14 @@ title: Jiyoung Jang
 description: >- # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of the site
-url: "https://jiyoungj.github.io/" # the base hostname & protocol for the site
+url: "https://jiyoungj.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile.png
 google_analytics: "UA-174916760-1"
 
 header:
   pages:
     - name: Home
-      slug: 
+      slug: /
     - name: Research
     - name: Contact
 
