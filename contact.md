@@ -1,7 +1,7 @@
 ---
 layout: simple
 title: Contact
-slug: /contact
+slug: /contact/
 
 ---
 
