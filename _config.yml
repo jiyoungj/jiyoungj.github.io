@@ -12,7 +12,7 @@ google_analytics: "UA-174916760-1"
 header:
   pages:
     - name: Home
-      slug: home/
+      slug: 
     - name: Research
     - name: Contact
 
