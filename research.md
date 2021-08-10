@@ -13,7 +13,7 @@ Phonetics, L2 phonetics, prosody, speech production and perception, computationa
 
  <h3>Journal Articles</h3>
 
-  <h4>2018</h4>
+  <div class="small-space"><h4>2018</h4></div>
    <b>Jang, J.</b>, Kim, S., & Cho, T. (2018). Focus and boundary effects on coarticulatory vowel nasalization in Korean with implications for cross-linguistic similarities and differences. <em>The Journal of the Acoustical Society of America</em>, 144(1), EL33-39.
 
   <h4>2017</h4>
