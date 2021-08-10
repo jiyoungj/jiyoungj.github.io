@@ -9,9 +9,9 @@ Articulatory and acoustic phonetics ・ phonetics-prosody interface ・ L2 acqui
 
 <br>
 
-<h3>Publications</h3>
+<h2>Publications</h2>
 
- <h3>JOURNAL ARTICLES</h3>
+ <h3>Journal Articles</h3>
 
   <h3>2018</h3>
    <b>Jang, J.</b>, Kim, S., & Cho, T. (2018). Focus and boundary effects on coarticulatory vowel nasalization in Korean with implications for cross-linguistic similarities and differences. <em>The Journal of the Acoustical Society of America</em>, 144(1), EL33-39.
