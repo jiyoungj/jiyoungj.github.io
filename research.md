@@ -1,7 +1,7 @@
 ---
 layout: simple
 title: Research
-slug: /research/
+slug: research/
 
 ---
 
