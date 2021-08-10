@@ -5,7 +5,7 @@ slug: /research/
 
 ---
 
-Articulatory and acoustic phonetics, phonetics-prosody interface, L2 phonetics, speech planning, speech production and perception, speech and technology, computational linguistics
+Phonetics, L2 phonetics, prosody, speech production and perception, computational linguistics
 
 <br>
 
