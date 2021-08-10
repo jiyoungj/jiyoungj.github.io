@@ -20,7 +20,7 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: click to send email
+      value: Click to send email
       link: mailto:jiyoung@ucsb.edu
 #  follow:
 #    - name: GitHub
