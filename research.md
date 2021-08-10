@@ -7,6 +7,7 @@ slug: /research
 
 Articulatory and acoustic phonetics ・ phonetics-prosody interface ・ L2 acquisition ・ speech planning ・ speech production and perception ・ speech and technology ・ computational linguistics
 
+<br>
 
 <h3>Publications</h3>
 
@@ -17,6 +18,8 @@ Articulatory and acoustic phonetics ・ phonetics-prosody interface ・ L2 acqui
 
   <div class="year">2017</div>
    <p class="leftmargin">Kim, S., <b>Jang, J.</b>, & Cho, T. (2017). Articulatory characteristics of preboundary lengthening in interaction with prominence on tri-syllabic words in American English. <em>The Journal of the Acoustical Society of America</em>, 142(4), EL362-368.</p>
+
+<br>
 
 <h5>PEER-REVIEWED PROCEEDINGS</h5>
 
