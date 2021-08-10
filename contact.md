@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Research
-slug: /research
+title: Contact
+slug: /contact
 
 ---
 
