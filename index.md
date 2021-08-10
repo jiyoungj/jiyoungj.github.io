@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/profile-pic.jpg
+  src: /assets/img/profile.png
   alt: website picture
 ---
 
@@ -14,5 +14,5 @@ profile_picture:
 </p>
 
 <p>
-  To see a list of my publications and presentations, click <a href="https://jiyoungj.github.io/research/">here</a> or the research tab from the menu bar.
+  To see a list of my publications and presentations, click <a href="https://jiyoungj.github.io/research">here</a> or the research tab from the menu bar.
 </p>
