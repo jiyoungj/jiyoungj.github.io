@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-  <h3><b>장지영 [tɕijʌŋ tɕaŋ] (she/her)</b></h3>
+  <h3>장지영 [t<b>ɕ</b>ijʌ<b>ŋ</b> t<b>ɕ</b>a<b>ŋ</b>] (she/her)</h3>
 </p>
 
 <p>
