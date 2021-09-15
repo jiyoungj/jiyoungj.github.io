@@ -6,6 +6,10 @@ profile_picture:
 ---
 
 <p>
+  장지영 [tɕijʌŋ tɕaŋ] (she/her)
+</p>
+
+<p>
   I'm a PhD student in the <a href="https://www.linguistics.ucsb.edu">Department of Linguistics</a> at the <a href="https://www.ucsb.edu">University of California, Santa Barbara</a> and a member of the Speech, Prosody, and Articulatory Kinematics (SPArK) Laboratory. My current research projects touch on L1 and L2 phonetics, phonetics-prosody interface, articulatory phonology, and computational linguistics.
 </p>
 
