@@ -62,9 +62,9 @@ Phonetics, L2 phonetics, prosody, speech production and perception, computationa
 
 <h4>2021</h4>
 
-  <b>Jang, J.</b>, Tsai, K. & Katsika, A. A cross-linguistic examination of the role of prominence in the coordination of boundary tones. Poster presentation at the <em>29th Japanese/Korean Linguistics Conference (JK29)</em>, October 2021.
+  <b>Jang, J.</b>, Tsai, K. & Katsika, A. A cross-linguistic examination of the role of prominence in the coordination of boundary tones. Virtual poster presentation at the <em>29th Japanese/Korean Linguistics Conference (JK29)</em>, October 2021.
 
-  <b>Jang, J.</b>, & Katsika, A. Prosodic boundaries in edge-prominence languages: kinematic evidence from Korean. Poster presentation at the <em>95th Annual meeting of the Linguistic Society of America (LSA)</em>, January 2021.
+  <b>Jang, J.</b>, & Katsika, A. Prosodic boundaries in edge-prominence languages: kinematic evidence from Korean. Virtual poster presentation at the <em>95th Annual meeting of the Linguistic Society of America (LSA)</em>, January 2021.
 
 
  <h6 style="font-size:1px"><br></h6>
