@@ -14,7 +14,7 @@ profile_picture:
 </p>
 
 <p>
-  I received my master's degree in English Linguistics from Hanyang University, South Korea, where I was a member of the <a href="https://site.hanyang.ac.kr/web/tcho/phonetics-lab">Hanyang Institute for Phonetics and Cognitive Sciences of Language (HIPCS)</a>.
+  I received my MA in English Linguistics from Hanyang University, South Korea, where I was a member of the <a href="https://site.hanyang.ac.kr/web/tcho/phonetics-lab">Hanyang Institute for Phonetics and Cognitive Sciences of Language (HIPCS)</a>.
 </p>
 
 <p>
