@@ -53,7 +53,7 @@ Phonetics, L2 phonetics, prosody, speech production and perception, computationa
 
 <h1 class="page-heading">Conference presentations</h1>
 
-<h4>2022 (To be presented)</h4>
+<h4>2022</h4>
 
  <b>Jang, J.</b>, & Katsika, A. The role of focus position in boundary tone coordination in Korean, an edge-prominence language. Presentation at the <em>96th Annual meeting of the Linguistic Society of America (LSA)</em>, Washington, DC, US, January 2022.
 
