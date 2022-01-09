@@ -6,7 +6,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of the site
 url: "https://jiyoungj.github.io" # the base hostname & protocol for the site
-og_image: /assets/img/preview.png
+og_image: /assets/img/preview.png, /assets/img/UCSB-logo.png
 google_analytics: "UA-174916760-1"
 
 header:
