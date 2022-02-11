@@ -51,7 +51,7 @@ Phonetics, L2 phonetics, prosody, speech production and perception, computationa
 
 <h6 style="font-size:5px"><br></h6>
 
-<h1 class="page-heading">CONFERENCE PRESENTATIONS</h1>
+<h3 style="font-size:18px">CONFERENCE PRESENTATIONS</h3>
 
 <h4>2022</h4>
 
