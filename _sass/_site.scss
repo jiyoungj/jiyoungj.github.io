@@ -7,9 +7,10 @@
   margin-bottom: 5px;
 
   @include media-query($on-mobile) {
+    display:block;
+    margin:0 auto;
     float: none;
     /* margin-bottom: 20px; */
-    text-align: center;
     margin-top: 10px;
     margin-left: 10px;
     margin-right: 10px;
