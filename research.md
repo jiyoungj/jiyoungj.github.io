@@ -27,6 +27,11 @@ Phonetics, L2 phonetics, prosody, speech production and perception, computationa
 
 <h3>Peer-reviewed Proceedings</h3>
 
+ <h4>2022</h4>
+
+  <b>Jang, J.</b>, & Katsika, A. (To appear). The coordination of boundary tones with constriction gestures in Seoul Korean, an edge-prominence language. <em> Proceedings of the 11th International Conference on Speech Prosody</em>.
+
+ 
  <h4>2020</h4>
 
   <b>Jang, J.</b>, & Katsika, A. (2020). The amount and scope of phrase-final lengthening in Seoul Korean. <em> Proceedings of the 10th International Conference on Speech Prosody</em>, 270-274.
@@ -55,6 +60,8 @@ Phonetics, L2 phonetics, prosody, speech production and perception, computationa
 
 <h4>2022</h4>
 
+ (To be presented) <b>Jang, J.</b>, & Katsika, A. The coordination of boundary tones with constriction gestures in Seoul Korean, an edge-prominence language. Poster presentation at the the <em>11th International Conference on Speech Prosody</em>, Lisbon, Portugal, May 2022.
+ 
  <b>Jang, J.</b>, & Katsika, A. The role of focus position in boundary tone coordination in Korean, an edge-prominence language. Presentation at the <em>96th Annual meeting of the Linguistic Society of America (LSA)</em>, Washington, DC, US, January 2022.
 
 
