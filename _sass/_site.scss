@@ -7,11 +7,9 @@
   margin-bottom: 5px;
 
   @include media-query($on-mobile) {
-    width: 70%;
     float: none;
+    margin-left: 10px;
     /* margin-bottom: 20px; */
-    margin-top: 10px;
-    margin-left: 50px;
     /* margin-right: 10px; */
   }
 }
