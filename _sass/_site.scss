@@ -9,6 +9,7 @@
   @include media-query($on-mobile) {
     /* float: none; */
     display: block;
+    margin-top: 5px;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
