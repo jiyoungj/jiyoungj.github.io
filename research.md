@@ -9,7 +9,7 @@ Phonetics, L2 phonetics, prosody, speech production and perception, computationa
 
 <h6 style="font-size:5px"><br></h6>
 
-<h1 class="page-heading">Publications</h1>
+<h1 class="page-heading">PUBLICATIONS</h1>
  <h3>Journal Articles</h3>
   <h4>2018</h4>
 
@@ -51,7 +51,7 @@ Phonetics, L2 phonetics, prosody, speech production and perception, computationa
 
 <h6 style="font-size:5px"><br></h6>
 
-<h1 class="page-heading">Conference presentations</h1>
+<h1 class="page-heading">CONFERENCE PRESENTATIONS</h1>
 
 <h4>2022</h4>
 
