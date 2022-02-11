@@ -1,13 +1,13 @@
 ---
 layout: home
 profile_picture:
-  src: 
-  alt: website picture
+  src:
+  alt:
 ---
 
 <h2 style="display:inline;">장지영 </h2><h3 style="display:inline;">[tɕijʌ<b>ŋ</b> tɕa<b>ŋ</b>] (she/her)</h3>
 
-<img src="/assets/img/profile.png" alt="website picture">
+<img src="/assets/img/profile.png" alt="website picture" width="200">
 
 <p>
   <br>I'm a PhD student in the <a href="https://www.linguistics.ucsb.edu">Department of Linguistics</a> at the <a href="https://www.ucsb.edu">University of California, Santa Barbara</a> and a member of the Speech, Prosody, and Articulatory Kinematics (SPArK) Laboratory. My current research projects touch on L1 and L2 phonetics, phonetics-prosody interface, articulatory phonology, and computational linguistics.
