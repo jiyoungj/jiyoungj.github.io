@@ -7,6 +7,7 @@
   margin-bottom: 5px;
 
   @include media-query($on-mobile) {
+    width: 70%;
     float: none;
     /* margin-bottom: 20px; */
     margin-top: 10px;
