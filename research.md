@@ -15,7 +15,6 @@ Phonetics, L2 phonetics, prosody, speech production and perception, computationa
 
    <b>Jang, J.</b>, Kim, S., & Cho, T. (2018). Focus and boundary effects on coarticulatory vowel nasalization in Korean with implications for cross-linguistic similarities and differences. <em>The Journal of the Acoustical Society of America</em>, 144(1), EL33-39.
 
-
   <h6 style="font-size:1px"><br></h6>
 
   <h4>2017</h4>
@@ -31,7 +30,9 @@ Phonetics, L2 phonetics, prosody, speech production and perception, computationa
 
   <b>Jang, J.</b>, & Katsika, A. (To appear). The coordination of boundary tones with constriction gestures in Seoul Korean, an edge-prominence language. <em> Proceedings of the 11th International Conference on Speech Prosody</em>.
 
- 
+
+<h6 style="font-size:1px"><br></h6>
+
  <h4>2020</h4>
 
   <b>Jang, J.</b>, & Katsika, A. (2020). The amount and scope of phrase-final lengthening in Seoul Korean. <em> Proceedings of the 10th International Conference on Speech Prosody</em>, 270-274.
