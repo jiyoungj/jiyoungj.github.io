@@ -9,7 +9,7 @@ Phonetics, L2 phonetics, prosody, speech production and perception, computationa
 
 <h6 style="font-size:5px"><br></h6>
 
-<h1>P<h2>UBLICATIONS</h2></h1>
+<h6 style="font-size:8px">PUBLICATIONS</h6>
  <h3>Journal Articles</h3>
   <h4>2018</h4>
 
