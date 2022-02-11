@@ -49,7 +49,7 @@ Phonetics, L2 phonetics, prosody, speech production and perception, computationa
 
   Choi, J., Cho, T., Kim, S., Baek, Y., & <b>Jang, J</b>. (2015). Phonetic encoding of coda voicing contrast and its interaction with information structure in L1 and L2 speech. <em>Proceedings of the 18th International Congress of Phonetics Sciences</em>.
 
-<h6 style="font-size:5px"><br></h6>
+<h6 style="font-size:6px"><br></h6>
 
 <h3 style="font-size:18px">CONFERENCE PRESENTATIONS</h3>
 
