@@ -28,7 +28,7 @@ Phonetics, L2 phonetics, prosody, speech production and perception, computationa
 
  <h4>2022</h4>
 
-  <b>Jang, J.</b>, & Katsika, A. (2022). The coordination of boundary tones with constriction gestures in Seoul Korean, an edge-prominence language. <em> Proceedings of the 11th International Conference on Speech Prosody</em>.
+  <b>Jang, J.</b>, & Katsika, A. (2022). The coordination of boundary tones with constriction gestures in Seoul Korean, an edge-prominence language. <em> Proceedings of the 11th International Conference on Speech Prosody</em>, 145-149.
 
 
 <h6 style="font-size:1px"><br></h6>
