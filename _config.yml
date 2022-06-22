@@ -18,15 +18,13 @@ header:
 
 footer:
   show_powered_by: true
-  contact:
-    - name: Email
-      value: Click to send email
-      link: mailto:jiyoung@ucsb.edu
-  follow:
-    - name: GitHub
-      link: http://github.com/jiyoungj
-    - name: Google Scholar
-      link: https://scholar.google.com/citations?user=PpsmarkAAAAJ&hl=en&oi=ao
+#  contact:
+#    - name: Email
+#      value: Click to send email
+#      link: mailto:jiyoung@ucsb.edu
+#  follow:
+#    - name: GitHub
+#      link: http://github.com/YourGitHubUsername
 
 # Build settings
 markdown: kramdown
