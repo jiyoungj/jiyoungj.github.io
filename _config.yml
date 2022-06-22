@@ -25,8 +25,8 @@ footer:
   follow:
     - name: Google Scholar
       link: https://scholar.google.com/citations?user=PpsmarkAAAAJ&hl=en&oi=ao
-#    - name: GitHub
-#      link: http://github.com/YourGitHubUsername
+    - name: GitHub
+      link: http://github.com/jiyoungj
 
 # Build settings
 markdown: kramdown
