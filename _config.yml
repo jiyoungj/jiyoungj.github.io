@@ -21,11 +21,12 @@ footer:
 #  “CONTACT” and “FOLLOW”: go to /_includes/footer.html and remove <!-- xxx --!>
   contact: 
     - name: Email
-      value: email
       link: mailto:jiyoung@ucsb.edu
+    - name: GitHub
+      link: http://github.com/
 # follow:
 #    - name: GitHub
-#      link: http://github.com/
+#      link: http://github.com/YourUsername
 
 # Build settings
 markdown: kramdown
