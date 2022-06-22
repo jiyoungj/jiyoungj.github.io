@@ -150,6 +150,7 @@
 .powered-by {
   font-size: 13px !important;
   color: $grey-color;
+  margin-right: 5px; /* added */
 }
 
 @include media-query($on-mobile) {
