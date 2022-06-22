@@ -18,18 +18,14 @@ header:
 
 footer:
   show_powered_by: true
-contact:
-  - name: Email
-    value: Email
-    link: mailto:jiyoung@ucsb.edu
 #  “CONTACT” and “FOLLOW”: go to /_includes/footer.html and remove <!-- xxx --!>
 #  contact: 
 #    - name: Email
 #      value: Click to send email
 #      link: mailto:jiyoung@ucsb.edu
- follow:
-    - name: GitHub
-      link: http://github.com/
+# follow:
+#    - name: GitHub
+#      link: http://github.com/
 
 # Build settings
 markdown: kramdown
