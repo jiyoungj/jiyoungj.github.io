@@ -18,7 +18,8 @@ header:
 
 footer:
   show_powered_by: true
-#  contact:
+#  “CONTACT” and “FOLLOW”: go to /_includes/footer.html and remove <!-- xxx --!>
+#  contact: 
 #    - name: Email
 #      value: Click to send email
 #      link: mailto:jiyoung@ucsb.edu
