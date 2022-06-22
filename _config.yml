@@ -22,6 +22,8 @@ footer:
   contact: 
     - name: Email
       link: mailto:jiyoung@ucsb.edu
+    - name: GitHub
+      link: http://github.com/YourUsername
 # follow:
 #    - name: GitHub
 #      link: http://github.com/YourUsername
