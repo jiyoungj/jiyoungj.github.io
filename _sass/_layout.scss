@@ -134,6 +134,7 @@
   float: left;
   margin-bottom: $spacing-unit / 2;
   padding-left: $spacing-unit / 2;
+  margin-right: 5px; /* added */
 }
 
 .footer-col-1,
@@ -150,7 +151,6 @@
 .powered-by {
   font-size: 13px !important;
   color: $grey-color;
-  margin-right: 5px; /* added */
 }
 
 @include media-query($on-mobile) {
