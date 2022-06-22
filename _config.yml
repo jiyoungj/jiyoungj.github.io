@@ -19,10 +19,10 @@ header:
 footer:
   show_powered_by: true
 #  “CONTACT” and “FOLLOW”: go to /_includes/footer.html and remove <!-- xxx --!>
-#  contact: 
+  contact: 
 #    - name: Email
 #      link: mailto:jiyoung@ucsb.edu
-# follow:
+ follow:
 #    - name: GitHub
 #      link: http://github.com/YourUsername
 
