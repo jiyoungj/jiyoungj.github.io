@@ -22,7 +22,7 @@ footer:
     - name: Email
       value: Click to send email
       link: mailto:jiyoung@ucsb.edu
-    - name: Google-Scholar
+    - name: google-scholar
       link: https://scholar.google.com/citations?user=PpsmarkAAAAJ&hl=en&oi=ao
 #  follow:
 #    - name: GitHub
