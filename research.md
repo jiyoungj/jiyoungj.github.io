@@ -12,7 +12,7 @@ Phonetics, L2 phonetics, prosody, speech production and perception, computationa
 <h3 style="font-size:18px">PUBLICATIONS</h3>
  <h3>Journal Articles</h3>
   
-  <h4 style="font-size:10px">*Accepted*</h4>
+  <h4 style="font-size:12px">*Accepted*</h4>
 
    <b>Jang, J.</b>, Kim, S., & Cho, T. Prosodic structural effects on non-contrastive coarticulatory vowel nasalization in L2 English by Korean learners.
   
