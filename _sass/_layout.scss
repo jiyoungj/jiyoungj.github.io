@@ -119,7 +119,8 @@
 
 .contact-list,
 .social-media-list {
-  list-style: none;
+  display:inline-block;
+  /* list-style: none; */
   margin-left: 0;
 }
 
