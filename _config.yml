@@ -22,9 +22,9 @@ footer:
   contact: 
     - name: Email
       link: mailto:jiyoung@ucsb.edu
- follow:
-    - name: GitHub
-      link: http://github.com/YourUsername
+# follow:
+#    - name: GitHub
+#      link: http://github.com/YourUsername
 
 # Build settings
 markdown: kramdown
