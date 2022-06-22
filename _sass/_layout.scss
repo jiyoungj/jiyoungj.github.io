@@ -119,8 +119,7 @@
 
 .contact-list,
 .social-media-list {
-  display:inline-block;
-  /* list-style: none; */
+  list-style: none;
   margin-left: 0;
 }
 
@@ -151,6 +150,7 @@
 .powered-by {
   font-size: 13px !important;
   color: $grey-color;
+  margin-bottom: 5px;
 }
 
 @include media-query($on-mobile) {
