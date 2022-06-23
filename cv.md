@@ -10,7 +10,6 @@ table, th, td {
   border-style: hidden;
 }
 </style>
-
 <body>
   
 CV download: coming soon
@@ -20,16 +19,18 @@ CV download: coming soon
 
   <table style="width:100%">
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
+    <th>2018~</th>
+    <th>Ph.D. Candiate in Linguistics, University of California, Santa Barbara, CA, USA <b>
+        Advisor: Professor Argyro Katsika</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
+    <td>2015~2018</td>
+    <td>M.A. in English Linguistics (Phonetics), Hanyang University, Seoul, South Korea <b>
+        Advisor: Professor Taehong Cho</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
+    <td>2011~2015</td>
+    <td>B.A. in English Language Education (<t>Summa Cum Laude/<t>), Hanyang University, Seoul, South Korea</td>
   </tr>
 </table>
 
