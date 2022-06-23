@@ -24,6 +24,6 @@ CV download: coming soon
   </tr>
   <tr>
     <td>2015</td>
-    <td>B.A. in English Language Education (<t>Summa Cum Laude/<t>), Hanyang University, Seoul, South Korea</td>
+    <td>B.A. in English Language Education (<i>Summa Cum Laude</i>), Hanyang University, Seoul, South Korea</td>
   </tr>
 </table>
