@@ -4,12 +4,15 @@ title: CV
 slug: /cv/
 
 ---
+<html>
 <style>
 table, th, td {
   border-style: hidden;
 }
 </style>
 
+<body>
+  
 CV download: coming soon
 
 
@@ -29,4 +32,6 @@ CV download: coming soon
     <td>Francisco Chang</td>
   </tr>
 </table>
-  
+
+  </body>
+  </html>
