@@ -20,12 +20,12 @@ CV download: coming soon
   <table style="width:100%">
   <tr>
     <th>2018~</th>
-    <th>Ph.D. Candiate in Linguistics, University of California, Santa Barbara, CA, USA <b>
+    <th>Ph.D. Candiate in Linguistics, University of California, Santa Barbara, CA, USA <br>
         Advisor: Professor Argyro Katsika</th>
   </tr>
   <tr>
     <td>2015~2018</td>
-    <td>M.A. in English Linguistics (Phonetics), Hanyang University, Seoul, South Korea <b>
+    <td>M.A. in English Linguistics (Phonetics), Hanyang University, Seoul, South Korea <br>
         Advisor: Professor Taehong Cho</td>
   </tr>
   <tr>
