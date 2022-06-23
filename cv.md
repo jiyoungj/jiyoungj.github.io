@@ -14,7 +14,7 @@ CV download: coming soon
   <tr>
     <td>Expected<br>
         2023</th>
-    <td>Ph.D. Candiate in Linguistics, University of California, Santa Barbara, CA, USA <br>
+    <td>Ph.D. Candiate in Linguistics, University of California Santa Barbara, Santa Barbara, CA, USA <br>
         Advisor: Professor Argyro Katsika</th>
   </tr>
   <tr>
