@@ -64,11 +64,11 @@ Phonetics, L2 phonetics, prosody, speech production and perception, computationa
 
 <h4>2023</h4>
 
-  <b>Jang, J.</b>, & Katsika, A. (2023). Articulatory manifestation of focus-induced prominence in Seoul Korean. Oral presentation at the <em>20th International Congress of Phonetic Sciences (ICPhS)</em>, Prague, Czech Republic, August 2023.
+  <b>Jang, J.</b>, & Katsika, A. Articulatory manifestation of focus-induced prominence in Seoul Korean. Oral presentation at the <em>20th International Congress of Phonetic Sciences (ICPhS)</em>, Prague, Czech Republic, August 2023.
   
-  Katsika, A, <b>Jang, J.</b>, Krivokapić, J., Goldstein, L., & Saltzman, E. (2023). A hierarchy of prominence: The production and perception of focus in American English. Presentation at the <em>20th International Congress of Phonetic Sciences (ICPhS)</em>, Prague, Czech Republic, August 2023.
+  Katsika, A, <b>Jang, J.</b>, Krivokapić, J., Goldstein, L., & Saltzman, E. A hierarchy of prominence: The production and perception of focus in American English. Presentation at the <em>20th International Congress of Phonetic Sciences (ICPhS)</em>, Prague, Czech Republic, August 2023.
   
-  Gordon, M., Katsika, A., Lai, R. K.-Y., Chien, S. & <b>Jang, J.</b> (2023). Speech rhythm metrics: a typological survey. Poster presentation at the <em>20th International Congress of Phonetic Sciences (ICPhS)</em>, Prague, Czech Republic, August 2023.
+  Gordon, M., Katsika, A., Lai, R. K.-Y., Chien, S. & <b>Jang, J.</b> Speech rhythm metrics: a typological survey. Poster presentation at the <em>20th International Congress of Phonetic Sciences (ICPhS)</em>, Prague, Czech Republic, August 2023.
 
   <b>Jang, J.</b>, & Katsika, A. Edgy articulation: the kinematic profile of Accentual Phrase boundaries in Seoul Korean. Poster presentation at the <em>Hanyang International Symposium on Phonetics and Cognitive Sciences of Language (HISPhonCog) 2023</em>, Seoul, South Korea, May 2023.
 
