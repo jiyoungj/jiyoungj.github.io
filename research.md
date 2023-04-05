@@ -66,7 +66,7 @@ Phonetics, L2 phonetics, prosody, speech production and perception, computationa
 
   <b>Jang, J.</b>, & Katsika, A. Articulatory manifestation of focus-induced prominence in Seoul Korean. Oral presentation at the <em>20th International Congress of Phonetic Sciences (ICPhS)</em>, Prague, Czech Republic, August 2023.
   
-  Katsika, A, <b>Jang, J.</b>, Krivokapić, J., Goldstein, L., & Saltzman, E. A hierarchy of prominence: The production and perception of focus in American English. Presentation at the <em>20th International Congress of Phonetic Sciences (ICPhS)</em>, Prague, Czech Republic, August 2023.
+  Katsika, A, <b>Jang, J.</b>, Krivokapić, J., Goldstein, L., & Saltzman, E. A hierarchy of prominence: The production and perception of focus in American English. Oral presentation at the <em>20th International Congress of Phonetic Sciences (ICPhS)</em>, Prague, Czech Republic, August 2023.
   
   Gordon, M., Katsika, A., Lai, R. K.-Y., Chien, S. & <b>Jang, J.</b> Speech rhythm metrics: a typological survey. Poster presentation at the <em>20th International Congress of Phonetic Sciences (ICPhS)</em>, Prague, Czech Republic, August 2023.
 
