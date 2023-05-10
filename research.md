@@ -11,11 +11,11 @@ Phonetics, L2 phonetics, prosody, speech production and perception, computationa
 
 <h3 style="font-size:18px">PUBLICATIONS</h3>
  <h3>Journal Articles</h3>
-  
+
   <h4>2022</h4>
 
    <b>Jang, J.</b>, Kim, S., & Cho, T. (2022, online first). Prosodic structural effects on non-contrastive coarticulatory vowel nasalization in L2 English by Korean learners. <em>Language and Speech</em>. https://doi.org/10.1177/00238309221108657
-  
+
   <h4>2018</h4>
 
    <b>Jang, J.</b>, Kim, S., & Cho, T. (2018). Focus and boundary effects on coarticulatory vowel nasalization in Korean with implications for cross-linguistic similarities and differences. <em>The Journal of the Acoustical Society of America</em>, 144(1), EL33-39.
@@ -32,9 +32,9 @@ Phonetics, L2 phonetics, prosody, speech production and perception, computationa
 <h4>2023</h4>
 
   <b>Jang, J.</b>, & Katsika, A. (2023). Articulatory manifestation of focus-induced prominence in Seoul Korean. <em>Proceedings of the 20th International Congress of Phonetic Sciences</em>.
-  
+
   Katsika, A, <b>Jang, J.</b>, Krivokapić, J., Goldstein, L., & Saltzman, E. (2023). A hierarchy of prominence: The production and perception of focus in American English. <em>Proceedings of the 20th International Congress of Phonetic Sciences</em>.
-  
+
   Gordon, M., Katsika, A., Lai, R. K.-Y., Chien, S. & <b>Jang, J.</b> (2023). Speech rhythm metrics: a typological survey. <em>Proceedings of the 20th International Congress of Phonetic Sciences</em>.
 
  <h4>2022</h4>
@@ -65,18 +65,19 @@ Phonetics, L2 phonetics, prosody, speech production and perception, computationa
 <h4>2023</h4>
 
   <b>Jang, J.</b>, & Katsika, A. Articulatory manifestation of focus-induced prominence in Seoul Korean. Oral presentation at the <em>20th International Congress of Phonetic Sciences (ICPhS)</em>, Prague, Czech Republic, August 2023.
-  
+
   Katsika, A, <b>Jang, J.</b>, Krivokapić, J., Goldstein, L., & Saltzman, E. A hierarchy of prominence: The production and perception of focus in American English. Oral presentation at the <em>20th International Congress of Phonetic Sciences (ICPhS)</em>, Prague, Czech Republic, August 2023.
-  
+
   Gordon, M., Katsika, A., Lai, R. K.-Y., Chien, S. & <b>Jang, J.</b> Speech rhythm metrics: a typological survey. Poster presentation at the <em>20th International Congress of Phonetic Sciences (ICPhS)</em>, Prague, Czech Republic, August 2023.
 
   <b>Jang, J.</b>, & Katsika, A. Edgy articulation: the kinematic profile of Accentual Phrase boundaries in Seoul Korean. Poster presentation at the <em>Hanyang International Symposium on Phonetics and Cognitive Sciences of Language (HISPhonCog) 2023</em>, Seoul, South Korea, May 2023.
 
 
+
 <h4>2022</h4>
 
  <b>Jang, J.</b>, & Katsika, A. The coordination of boundary tones with constriction gestures in Seoul Korean, an edge-prominence language. Poster presentation at the the <em>11th International Conference on Speech Prosody</em>, Lisbon, Portugal, May 2022.
- 
+
  <b>Jang, J.</b>, & Katsika, A. The role of focus position in boundary tone coordination in Korean, an edge-prominence language. Presentation at the <em>96th Annual meeting of the Linguistic Society of America (LSA)</em>, Washington, DC, US, January 2022.
 
 
