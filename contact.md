@@ -9,10 +9,11 @@ slug: /contact/
 
 <br>
 <i class="far fa-envelope"></i><br>
+jiyoungljang <i class="fas fa-at"></i> hanyang <i class="fas fa-circle fa-xs" style="font-size: 0.25rem;"></i> ac <i class="fas fa-circle fa-xs" style="font-size: 0.25rem;"></i> kr <br><br>
 jiyoung <i class="fas fa-at"></i> ucsb <i class="fas fa-circle fa-xs" style="font-size: 0.25rem;"></i> edu <br><br>
 
-<i class="far fa-edit"></i><br>
+<!-- <i class="far fa-edit"></i><br>
 Department of Linguistics<br>
 South Hall 3432<br>
 University of California, Santa Barbara<br>
-Santa Barbara, CA 93106 USA
+Santa Barbara, CA 93106 USA -->
