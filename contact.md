@@ -9,7 +9,7 @@ slug: /contact/
 
 <br>
 <i class="far fa-envelope"></i><br>
-jiyoungljang <i class="fas fa-at"></i> hanyang <i class="fas fa-circle fa-xs" style="font-size: 0.25rem;"></i> ac <i class="fas fa-circle fa-xs" style="font-size: 0.25rem;"></i> kr <br><br>
+jiyoungljang <i class="fas fa-at"></i> hanyang <i class="fas fa-circle fa-xs" style="font-size: 0.25rem;"></i> ac <i class="fas fa-circle fa-xs" style="font-size: 0.25rem;"></i> kr <br>
 jiyoung <i class="fas fa-at"></i> ucsb <i class="fas fa-circle fa-xs" style="font-size: 0.25rem;"></i> edu <br><br>
 
 <!-- <i class="far fa-edit"></i><br>
