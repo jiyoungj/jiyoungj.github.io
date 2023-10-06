@@ -10,14 +10,9 @@ profile_picture:
 <h6 style="font-size:1px"><br></h6>
 
 <p>
-  I'm a PhD student in the <a href="https://www.linguistics.ucsb.edu">Department of Linguistics</a> at the <a href="https://www.ucsb.edu">University of California, Santa Barbara</a> and a member of the Speech, Prosody, and Articulatory Kinematics (SPArK) Laboratory. My current research projects touch on L1 and L2 phonetics, phonetics-prosody interface, articulatory phonology, and computational linguistics.
+  I'm a Post-doc at at <a href="https://site.hanyang.ac.kr/web/tcho/phonetics-lab">Hanyang Institute for Phonetics and Cognitive Sciences of Language (HIPCS)</a>. I received my PhD in Linguistics from <a href="https://www.linguistics.ucsb.edu">University of California, Santa Barbara</a>. At UCSB, I was a member of the Speech, Prosody, and Articulatory Kinematics (SPArK) Laboratory. My research include L1 and L2 phonetics, phonetics-prosody interface, Articulatory Phonology, and speech production/perception.
 </p>
 
-<p>
-  I received my MA in English Linguistics from Hanyang University, South Korea, where I was a member of the <a href="https://site.hanyang.ac.kr/web/tcho/phonetics-lab">Hanyang Institute for Phonetics and Cognitive Sciences of Language (HIPCS)</a>.
-</p>
-
-<p>
   To see a list of my publications and presentations, click <a href="https://jiyoungj.github.io/research">here</a> or the research tab from the menu bar.
 </p>
 
