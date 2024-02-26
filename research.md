@@ -31,7 +31,7 @@ Phonetics, L2 phonetics, prosody, speech production and perception, computationa
 
 <h4>2023</h4>
 
-  Kaland, C., Gordon, M., <b>Jang, J.</b>, \& Katsika, A. (2023) No effects of f0 manipulation and phrase position in Korean word recognition. <em>Proceedings of the Second International Conference on Tone and Intonation</em>.
+  Kaland, C., Gordon, M., <b>Jang, J.</b>, \& Katsika, A. (2023). No effects of f0 manipulation and phrase position in Korean word recognition. <em>Proceedings of the Second International Conference on Tone and Intonation</em>.
 
   <b>Jang, J.</b>, & Katsika, A. (2023). Articulatory manifestation of focus-induced prominence in Seoul Korean. <em>Proceedings of the 20th International Congress of Phonetic Sciences</em>, 1686-1690.
 
