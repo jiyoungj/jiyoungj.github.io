@@ -14,7 +14,7 @@ Phonetics, L2 phonetics, prosody, speech production and perception, computationa
 
   <h4>2023</h4>
 
-   <b>Jang, J.</b>, Kim, S., & Cho, T. (2023). Prosodic structural effects on non-contrastive coarticulatory vowel nasalization in L2 English by Korean learners. <em>Language and Speech</em>, 66(2), 381-411. https://doi.org/10.1177/00238309221108657
+   <b>Jang, J.</b>, Kim, S., & Cho, T. (2023). Prosodic structural effects on non-contrastive coarticulatory vowel nasalization in L2 English by Korean learners. <em>Language and Speech</em>, 66(2), 381-411. <a href="https://doi.org/10.1177/00238309221108657">https://doi.org/10.1177/00238309221108657</a>
 
   <h4>2018</h4>
 
@@ -31,11 +31,13 @@ Phonetics, L2 phonetics, prosody, speech production and perception, computationa
 
 <h4>2023</h4>
 
-  <b>Jang, J.</b>, & Katsika, A. (2023). Articulatory manifestation of focus-induced prominence in Seoul Korean. <em>Proceedings of the 20th International Congress of Phonetic Sciences</em>.
+  Kaland, C., Gordon, M., <b>Jang, J.</b>, \& Katsika, A. (2023) No effects of f0 manipulation and phrase position in Korean word recognition. <em>Proceedings of the Second International Conference on Tone and Intonation</em>.
 
-  Katsika, A, <b>Jang, J.</b>, Krivokapić, J., Goldstein, L., & Saltzman, E. (2023). A hierarchy of prominence: The production and perception of focus in American English. <em>Proceedings of the 20th International Congress of Phonetic Sciences</em>.
+  <b>Jang, J.</b>, & Katsika, A. (2023). Articulatory manifestation of focus-induced prominence in Seoul Korean. <em>Proceedings of the 20th International Congress of Phonetic Sciences</em>, 1686-1690.
 
-  Gordon, M., Katsika, A., Lai, R. K.-Y., Chien, S. & <b>Jang, J.</b> (2023). Speech rhythm metrics: a typological survey. <em>Proceedings of the 20th International Congress of Phonetic Sciences</em>.
+  Katsika, A, <b>Jang, J.</b>, Krivokapić, J., Goldstein, L., & Saltzman, E. (2023). A hierarchy of prominence: The production and perception of focus in American English. <em>Proceedings of the 20th International Congress of Phonetic Sciences</em>, 1696-1700.
+
+  Gordon, M., Katsika, A., Lai, R. K.-Y., Chien, S. & <b>Jang, J.</b> (2023). Speech rhythm metrics: a typological survey. <em>Proceedings of the 20th International Congress of Phonetic Sciences</em>, 1479-1483.
 
  <h4>2022</h4>
 
