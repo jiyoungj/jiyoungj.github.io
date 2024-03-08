@@ -12,6 +12,10 @@ Phonetics, L2 phonetics, prosody, speech production and perception, computationa
 <h3 style="font-size:18px">PUBLICATIONS</h3>
  <h3>Journal Articles</h3>
 
+  <h4>2024</h4>
+
+   <b>Jang, J.</b>, Kim, S., & Cho, T. (<em>Accepted</em>). Voice quality distinction of the Korean three-way contrastive stops under prosodic strengthening. <em>Phonetics and Speech Sciences</em>, 16(1).
+
   <h4>2023</h4>
 
    <b>Jang, J.</b>, Kim, S., & Cho, T. (2023). Prosodic structural effects on non-contrastive coarticulatory vowel nasalization in L2 English by Korean learners. <em>Language and Speech</em>, 66(2), 381-411. <a href="https://doi.org/10.1177/00238309221108657">https://doi.org/10.1177/00238309221108657</a>
@@ -63,6 +67,12 @@ Phonetics, L2 phonetics, prosody, speech production and perception, computationa
 
 
 <h3 style="font-size:18px">PRESENTATIONS</h3>
+
+<h4>2024</h4>
+
+  <b>Jang, J.</b>, Kim, S., & Cho, T. Glottalization of non-initial vowels in marking prosodic structure in American and Australian Englishes. Oral presentation to be presented at the <em>19th Conference on Laboratory Phonology (LabPhon19)</em>, Seoul, South Korea, June 2024.
+
+  Katsika, A. & <b>Jang, J.</b> Prosodic encoding of focus and edge-prominence: an articulatory study of Seoul Korean. Oral presentation to be presented at the <em>19th Conference on Laboratory Phonology (LabPhon19)</em>, Seoul, South Korea, June 2024.
 
 <h4>2023</h4>
 
