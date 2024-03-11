@@ -35,7 +35,7 @@ Phonetics, L2 phonetics, prosody, speech production and perception, computationa
 
 <h4>2024</h4>
 
-<b>Jang, J.</b>, & Katsika, A. (Accepted). Focus structure and articulatory strengthening in Seoul Korean. <em> Proceedings of the 12th International Conference on Speech Prosody</em>.
+<b>Jang, J.</b>, & Katsika, A. (<em>Accepted</em>). Focus structure and articulatory strengthening in Seoul Korean. <em> Proceedings of the 12th International Conference on Speech Prosody</em>.
 
 <h4>2023</h4>
 
