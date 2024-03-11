@@ -33,6 +33,10 @@ Phonetics, L2 phonetics, prosody, speech production and perception, computationa
 
 <h3>Peer-reviewed Proceedings</h3>
 
+<h4>2024</h4>
+
+<b>Jang, J.</b>, & Katsika, A. (To appear). Focus structure and articulatory strengthening in Seoul Korean. <em> Proceedings of the 12th International Conference on Speech Prosody</em>.
+
 <h4>2023</h4>
 
   Kaland, C., Gordon, M., <b>Jang, J.</b>, & Katsika, A. (2023). No effects of f0 manipulation and phrase position in Korean word recognition. <em>Proceedings of the Second International Conference on Tone and Intonation</em>.
@@ -70,6 +74,8 @@ Phonetics, L2 phonetics, prosody, speech production and perception, computationa
 
 <h4>2024</h4>
 
+  <b>Jang, J.</b>, & Katsika, A. Focus structure and articulatory strengthening in Seoul Korean. To be presented at the the <em>12th International Conference on Speech Prosody</em>, Leiden, The Netherlands, July 2024.
+  
   <b>Jang, J.</b>, Kim, S., & Cho, T. Glottalization of non-initial vowels in marking prosodic structure in American and Australian Englishes. Oral presentation to be presented at the <em>19th Conference on Laboratory Phonology (LabPhon19)</em>, Seoul, South Korea, June 2024.
 
   Katsika, A. & <b>Jang, J.</b> Prosodic encoding of focus and edge-prominence: an articulatory study of Seoul Korean. Oral presentation to be presented at the <em>19th Conference on Laboratory Phonology (LabPhon19)</em>, Seoul, South Korea, June 2024.
