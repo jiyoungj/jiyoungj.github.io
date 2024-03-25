@@ -82,6 +82,8 @@ Phonetics, L2 phonetics, prosody, speech production and perception, computationa
 
 <h4>2023</h4>
 
+  Kaland, C., Gordon, M., <b>Jang, J.</b>, & Katsika, A. No effects of f0 manipulation and phrase position in Korean word recognition. Oral presentation at the <em>Second International Conference on Tone and Intonation (TAI 2023)</em>, Singapore, November 2023.
+
   <b>Jang, J.</b>, & Katsika, A. Articulatory manifestation of focus-induced prominence in Seoul Korean. Oral presentation at the <em>20th International Congress of Phonetic Sciences (ICPhS)</em>, Prague, Czech Republic, August 2023.
 
   Katsika, A, <b>Jang, J.</b>, Krivokapić, J., Goldstein, L., & Saltzman, E. A hierarchy of prominence: The production and perception of focus in American English. Oral presentation at the <em>20th International Congress of Phonetic Sciences (ICPhS)</em>, Prague, Czech Republic, August 2023.
