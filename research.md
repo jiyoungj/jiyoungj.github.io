@@ -14,19 +14,19 @@ Phonetics, L2 phonetics, prosody, speech production and perception, computationa
 
   <h4>2024</h4>
 
-   <b>Jang, J.</b>, Kim, S., & Cho, T. (<em>Accepted</em>). Voice quality distinction of the Korean three-way contrastive stops under prosodic strengthening. <em>Phonetics and Speech Sciences</em>, 16(1).
+   <b>Jang, J.</b>, Kim, S., & Cho, T. (2024). Voice quality distinction of the Korean three-way contrastive stops under prosodic strengthening. <em>Phonetics and Speech Sciences, 16</em>(1), 25-32.
 
   <h4>2023</h4>
 
-   <b>Jang, J.</b>, Kim, S., & Cho, T. (2023). Prosodic structural effects on non-contrastive coarticulatory vowel nasalization in L2 English by Korean learners. <em>Language and Speech</em>, 66(2), 381-411. <a href="https://doi.org/10.1177/00238309221108657">https://doi.org/10.1177/00238309221108657</a>
+   <b>Jang, J.</b>, Kim, S., & Cho, T. (2023). Prosodic structural effects on non-contrastive coarticulatory vowel nasalization in L2 English by Korean learners. <em>Language and Speech, 66</em>(2), 381-411. <a href="https://doi.org/10.1177/00238309221108657">https://doi.org/10.1177/00238309221108657</a>
 
   <h4>2018</h4>
 
-   <b>Jang, J.</b>, Kim, S., & Cho, T. (2018). Focus and boundary effects on coarticulatory vowel nasalization in Korean with implications for cross-linguistic similarities and differences. <em>The Journal of the Acoustical Society of America</em>, 144(1), EL33-39.
+   <b>Jang, J.</b>, Kim, S., & Cho, T. (2018). Focus and boundary effects on coarticulatory vowel nasalization in Korean with implications for cross-linguistic similarities and differences. <em>The Journal of the Acoustical Society of America, 144</em>(1), EL33-39.
 
   <h4>2017</h4>
 
-   Kim, S., <b>Jang, J.</b>, & Cho, T. (2017). Articulatory characteristics of preboundary lengthening in interaction with prominence on tri-syllabic words in American English. <em>The Journal of the Acoustical Society of America</em>, 142(4), EL362-368.
+   Kim, S., <b>Jang, J.</b>, & Cho, T. (2017). Articulatory characteristics of preboundary lengthening in interaction with prominence on tri-syllabic words in American English. <em>The Journal of the Acoustical Society of America, 142</em>(4), EL362-368.
 
 
 <h6 style="font-size:5px"><br></h6>
