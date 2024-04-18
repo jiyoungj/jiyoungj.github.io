@@ -14,7 +14,7 @@ Phonetics, L2 phonetics, prosody, speech production and perception, computationa
 
   <h4>2024</h4>
 
-   <b>Jang, J.</b>, Kim, S., & Cho, T. (2024). Voice quality distinctions of the three-way stops contrast under prosodic strengthening in Korean. <em>Phonetics and Speech Sciences, 16</em>(1), 25-32.
+   <b>Jang, J.</b>, Kim, S., & Cho, T. (2024). Voice quality distinctions of the three-way stops contrast under prosodic strengthening in Korean. <em>Phonetics and Speech Sciences, 16</em>(1), 25-32. <a href="https://doi.org/10.13064/KSSS.2024.16.1.017">https://doi.org/10.13064/KSSS.2024.16.1.017</a>
 
   <h4>2023</h4>
 
