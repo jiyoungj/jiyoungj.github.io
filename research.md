@@ -14,7 +14,7 @@ Phonetics, L2 phonetics, prosody, speech production and perception, computationa
 
   <h4>2024</h4>
 
-   <b>Jang, J.</b>, & Katsika, A. (Accepted). Phrase boundaries lacking word prosody: an articulatory investigation of Seoul Korean. <em>The Journal of the Acoustical Society of America, 155</em>, 3521-3536. <a href="https://doi.org/10.1121/10.0026081">https://doi.org/10.1121/10.0026081</a>
+   <b>Jang, J.</b>, & Katsika, A. (2024). Phrase boundaries lacking word prosody: an articulatory investigation of Seoul Korean. <em>The Journal of the Acoustical Society of America, 155</em>, 3521-3536. <a href="https://doi.org/10.1121/10.0026081">https://doi.org/10.1121/10.0026081</a>
 
    <b>Jang, J.</b>, Kim, S., & Cho, T. (2024). Voice quality distinctions of the three-way stops contrast under prosodic strengthening in Korean. <em>Phonetics and Speech Sciences, 16</em>(1), 17-24. <a href="https://doi.org/10.13064/KSSS.2024.16.1.017">https://doi.org/10.13064/KSSS.2024.16.1.017</a>
 
