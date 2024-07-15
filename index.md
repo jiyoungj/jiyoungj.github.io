@@ -16,4 +16,4 @@ profile_picture:
   To see a list of my publications and presentations, click <a href="https://jiyoungj.github.io/research">here</a> or the research tab from the menu bar.
 </p>
 
-<img src="/assets/img/UCSB-logo.png" alt="UCSB-logo" width="150"> &nbsp; <img src="/assets/img/SPArK-Logo.png" alt="SPArK-logo" width="150">
+<img src="/assets/img/HIPCS-logo.png" alt="HIPCS-logo" width="150"> &nbsp; <img src="/assets/img/UCSB-logo.png" alt="UCSB-logo" width="150"> &nbsp; <img src="/assets/img/SPArK-Logo.png" alt="SPArK-logo" width="150">
