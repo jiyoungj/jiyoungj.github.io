@@ -14,7 +14,7 @@ Phonetics, L2 phonetics, prosody, speech production and perception, computationa
 
 <h4>2025</h4>
 
-   Park, M, <b>Jang, J.</b>, Kim, S. & Cho, T. (2025). Does phrase-initial denasalization extend beyond Seoul Korean? Evidence from North Gyeongsang Korean. <em>Phonetics and Speech Sciences, 17</em>(1).
+   Park, M., <b>Jang, J.</b>, Kim, S. & Cho, T. (2025). Does phrase-initial denasalization extend beyond Seoul Korean? Evidence from North Gyeongsang Korean. <em>Phonetics and Speech Sciences, 17</em>(1).
 
   <h4>2024</h4>
 
