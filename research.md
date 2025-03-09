@@ -12,6 +12,10 @@ Phonetics, L2 phonetics, prosody, speech production and perception, computationa
 <h3 style="font-size:18px">PUBLICATIONS</h3>
  <h3>Journal Articles</h3>
 
+<h4>2025</h4>
+
+   Park, M, <b>Jang, J.</b>, Kim, S. & Cho, T. (2025). Does phrase-initial denasalization extend beyond Seoul Korean? Evidence from North Gyeongsang Korean. <em>Phonetics and Speech Sciences, 17</em>(1).
+
   <h4>2024</h4>
 
    <b>Jang, J.</b>, & Katsika, A. (2024). Phrase boundaries lacking word prosody: an articulatory investigation of Seoul Korean. <em>The Journal of the Acoustical Society of America, 155</em>, 3521-3536. <a href="https://doi.org/10.1121/10.0026081">https://doi.org/10.1121/10.0026081</a>
