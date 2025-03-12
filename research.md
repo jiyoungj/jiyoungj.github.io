@@ -78,6 +78,10 @@ Phonetics, L2 phonetics, prosody, speech production and perception, computationa
 
 <h3 style="font-size:18px">PRESENTATIONS</h3>
 
+<h4>2025</h4>
+
+  <b>Jang, J.</b> & Katsika, A. Intonational marking of focus types in Seoul Korean. Oral presentation at the <em>Third International Conference on Tone and Intonation (TAI 2025)</em>, Herrsching, Germany, May 2025.
+
 <h4>2024</h4>
 
   <b>Jang, J.</b>, & Katsika, A. Focus structure and articulatory strengthening in Seoul Korean. Poster presentation at the the <em>12th International Conference on Speech Prosody</em>, Leiden, The Netherlands, July 2024.
