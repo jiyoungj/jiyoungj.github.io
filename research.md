@@ -30,11 +30,11 @@ Phonetics, L2 phonetics, prosody, speech production and perception, computationa
 
   <h4>2018</h4>
 
-   <b>Jang, J.</b>, Kim, S., & Cho, T. (2018). Focus and boundary effects on coarticulatory vowel nasalization in Korean with implications for cross-linguistic similarities and differences. <em>The Journal of the Acoustical Society of America, 144</em>(1), EL33-39.
+   <b>Jang, J.</b>, Kim, S., & Cho, T. (2018). Focus and boundary effects on coarticulatory vowel nasalization in Korean with implications for cross-linguistic similarities and differences. <em>The Journal of the Acoustical Society of America, 144</em>(1), EL33-39. <a href="https://doi.org/10.1121/1.5044641">https://doi.org/10.1121/1.5044641</a>
 
   <h4>2017</h4>
 
-   Kim, S., <b>Jang, J.</b>, & Cho, T. (2017). Articulatory characteristics of preboundary lengthening in interaction with prominence on tri-syllabic words in American English. <em>The Journal of the Acoustical Society of America, 142</em>(4), EL362-368.
+   Kim, S., <b>Jang, J.</b>, & Cho, T. (2017). Articulatory characteristics of preboundary lengthening in interaction with prominence on tri-syllabic words in American English. <em>The Journal of the Acoustical Society of America, 142</em>(4), EL362-368. <a href="https://doi.org/10.1121/1.5005132">https://doi.org/10.1121/1.5005132</a>
 
 
 <h6 style="font-size:5px"><br></h6>
