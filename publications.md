@@ -1,12 +1,9 @@
 ---
 layout: simple
-title: Research
-slug: /research/
+title: Publications
+slug: /publications/
 
 ---
-
-Phonetics, L2 phonetics, prosody, speech production and perception, computational linguistics
-
 <h6 style="font-size:5px"><br></h6>
 
 <h3 style="font-size:18px">PUBLICATIONS</h3>
