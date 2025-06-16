@@ -8,8 +8,6 @@ slug: /presentations/
 
 <h6 style="font-size:5px"><br></h6>
 
-<h3 style="font-size:18px">CONFERENCE PRESENTATIONS</h3>
-
 <h4>2025</h4>
 
   <b>Jang, J.</b> & Katsika, A. Intonational marking of focus types in Seoul Korean. Oral presentation at the <em>Third International Conference on Tone and Intonation (TAI 2025)</em>, Herrsching, Germany, May 2025.
