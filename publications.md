@@ -5,7 +5,6 @@ slug: /publications/
 
 ---
 <h6 style="font-size:5px"><br></h6>
-
 <h3>Journal Articles</h3>
 
 <h4>2025</h4>
