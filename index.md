@@ -13,6 +13,8 @@ profile_picture:
   I'm a post-doctoral researcher at <a href="https://site.hanyang.ac.kr/web/tcho/phonetics-lab">Hanyang Institute for Phonetics and Cognitive Sciences of Language (HIPCS)</a>. I received my PhD in Linguistics from <a href="https://www.linguistics.ucsb.edu">University of California, Santa Barbara (UCSB)</a> in 2023. At UCSB, I was a member of the <a huf="https://www.ucsb-spark.com/">Speech, Prosody, and Articulatory Kinematics (SPArK) Laboratory</a>. My current research projects involve L1 and L2 phonetics, phonetics-prosody interface, Articulatory Phonology, speech production/perception, and computational linguistics.
 </p>
 
-<p></p>
+<p>
+  
+</p>
 
 <img src="/assets/img/HIPCS-logo.png" alt="HIPCS-logo" width="150"> &nbsp; <img src="/assets/img/UCSB-logo.png" alt="UCSB-logo" width="150"> &nbsp; <img src="/assets/img/SPArK-Logo.png" alt="SPArK-logo" width="150">
