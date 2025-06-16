@@ -13,7 +13,8 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Research
+    - name: Publications
+    - name: Presentations
     - name: Contact
 
 footer:
