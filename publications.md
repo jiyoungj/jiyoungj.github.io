@@ -13,7 +13,7 @@ slug: /publications/
 
 <h4>2025</h4>
 
- <b>Jang, J.</b>, & Katsika, A. Kinematic encoding of focus and edge-prominence in Seoul Korean. <em>The Journal of the Acoustical Society of America, 158</em>(3), 2523-2536. <a href="https://doi.org/10.1121/10.0039347">https://doi.org/10.1121/10.0039347</a>
+ <b>Jang, J.</b>, & Katsika, A. (2025). Kinematic encoding of focus and edge-prominence in Seoul Korean. <em>The Journal of the Acoustical Society of America, 158</em>(3), 2523-2536. <a href="https://doi.org/10.1121/10.0039347">https://doi.org/10.1121/10.0039347</a>
 
   <b>Jang, J.</b>, Kim, S., & Cho, T. (2025). Acoustic data on vowel nasalization across prosodic conditions in L1 Korean and L2 English by native Korean speakers. <em>Data, 10</em>(6), 82. <a href="https://doi.org/10.3390/data10060082">https://doi.org/10.3390/data10060082</a>
 
