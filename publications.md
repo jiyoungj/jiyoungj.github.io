@@ -9,7 +9,7 @@ slug: /publications/
 
 <h4>Accepted</h4>
 
-  <strong>Jang, J.</strong>, Kim, S., & Cho, T. Articulatory data on preboundary lengthening across prominence conditions in American English. <em>Data</em>.
+  **Jang, J.**, Kim, S., & Cho, T. Articulatory data on preboundary lengthening across prominence conditions in American English. <em>Data</em>.
 
   <b>Jang, J.</b>, Lee, J., Lee, J., Kim, S., & Cho, T. Unveiling denasalization as an ongoing sound change: The role of prosody and gender in Seoul Korean. <em>Language and Speech</em>.
 
