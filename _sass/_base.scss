@@ -35,6 +35,11 @@ body {
   -webkit-text-size-adjust: 100%;
 }
 
+/* added for boldface */
+strong, b {
+  font-weight: 700 !important;
+}
+
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
@@ -103,7 +108,7 @@ h3,
 h4,
 h5,
 h6 {
-  /* font-weight: 300; */
+  font-weight: 300;
   font-family: "Futura", sans-serif;
 }
 
