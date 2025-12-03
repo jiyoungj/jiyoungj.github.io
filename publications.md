@@ -9,13 +9,13 @@ slug: /publications/
 
 <h4>Accepted</h4>
 
-  <b>Jang, J.</b>, Kim, S., & Cho, T. Articulatory data on preboundary lengthening across prominence conditions in American English. <em>Data</em>.
-
   <b>Jang, J.</b>, Lee, J., Lee, J., Kim, S., & Cho, T. Unveiling denasalization as an ongoing sound change: The role of prosody and gender in Seoul Korean. <em>Language and Speech</em>.
 
   <b>Jang, J.</b>, Kim, S., Cutler, A., & Cho, T. When vowels glottalize without strictly aligning with prosodic boundaries: Marking prosodic structure in American and Australian English. <em>Linguistics Vanguard</em>.
 
 <h4>2025</h4>
+
+ <b>Jang, J.</b>, Kim, S., & Cho, T. Articulatory data on preboundary lengthening across prominence conditions in American English. <em>Data, 10</em>(12), 197. <a href="https://doi.org/10.3390/data10120197">https://doi.org/10.3390/data10120197</a>.
 
  <b>Jang, J.</b>, & Katsika, A. (2025). Kinematic encoding of focus and edge-prominence in Seoul Korean. <em>The Journal of the Acoustical Society of America, 158</em>(3), 2523-2536. <a href="https://doi.org/10.1121/10.0039347">https://doi.org/10.1121/10.0039347</a>
 
