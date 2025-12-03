@@ -15,7 +15,7 @@ slug: /publications/
 
 <h4>2025</h4>
 
- <b>Jang, J.</b>, Kim, S., & Cho, T. Articulatory data on preboundary lengthening across prominence conditions in American English. <em>Data, 10</em>(12), 197. <a href="https://doi.org/10.3390/data10120197">https://doi.org/10.3390/data10120197</a>
+ <b>Jang, J.</b>, Kim, S., & Cho, T (2025). Articulatory data on preboundary lengthening across prominence conditions in American English. <em>Data, 10</em>(12), 197. <a href="https://doi.org/10.3390/data10120197">https://doi.org/10.3390/data10120197</a>
 
  <b>Jang, J.</b>, & Katsika, A. (2025). Kinematic encoding of focus and edge-prominence in Seoul Korean. <em>The Journal of the Acoustical Society of America, 158</em>(3), 2523-2536. <a href="https://doi.org/10.1121/10.0039347">https://doi.org/10.1121/10.0039347</a>
 
