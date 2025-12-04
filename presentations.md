@@ -12,7 +12,9 @@ slug: /presentations/
 
   <b>Jang, J.</b> & Katsika, A. Edge-prominence in Seoul Korean: Articulatory scope of focus and dephrasing. Poster presentation at the <em>189th Meeting of the Acoustical Society of America (ASA)</em>, Honolulu, Hawaii, US, December 2025.
 
-  <b>Jang, J.</b>, Joo, H., Kim, S., Cutler, A. & Cho, T. Prosodic effects on coarticulatory vowel nasalization: A cross-dialectal study of American and Australian English. Oral presentation at the <em>2025 Fall Conference of the Korean Society of Speech Sciences</em>, Seoul, South Korea, October 2025.
+  <b>Jang, J.</b>, Joo, H., Kim, S., Cutler, A., & Cho, T. Prosodic effects on coarticulatory vowel nasalization: A cross-dialectal study of American and Australian English. Oral presentation at the <em>2025 Fall Conference of the Korean Society of Speech Sciences</em>, Seoul, South Korea, October 2025.
+
+  Hatcher, R., <b>Jang, J.</b>, Kim, S., & Cho, T. Prosodic encoding of covert case marking in Seoul Korean: Evidence from duration, F0, and phrasing. Oral presentation at the <em>2025 Fall Conference of the Korean Society of Speech Sciences</em>, Seoul, South Korea, October 2025.
 
   <b>Jang, J.</b> & Katsika, A. Intonational marking of focus types in Seoul Korean. Oral presentation at the <em>Third International Conference on Tone and Intonation (TAI 2025)</em>, Herrsching, Germany, May 2025.
 
