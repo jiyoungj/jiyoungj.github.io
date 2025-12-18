@@ -13,7 +13,7 @@ slug: /publications/
 
 <h4>2025</h4>
 
-  <b>Jang, J.</b>, Lee, J., Lee, J., Kim, S., & Cho, T. (Online first). Unveiling denasalization as an ongoing sound change: The role of prosody and gender in Seoul Korean. <em>Language and Speech</em>. <a href="https://doi.org/10.1177/00238309251390431">https://doi.org/10.1177/00238309251390431</a>
+  <b>Jang, J.</b>, Lee, J., Lee, J., Kim, S., & Cho, T. (2025, online first). Unveiling denasalization as an ongoing sound change: The role of prosody and gender in Seoul Korean. <em>Language and Speech</em>. <a href="https://doi.org/10.1177/00238309251390431">https://doi.org/10.1177/00238309251390431</a>
 
  <b>Jang, J.</b>, Kim, S., & Cho, T. (2025). Articulatory data on preboundary lengthening across prominence conditions in American English. <em>Data, 10</em>(12), 197. <a href="https://doi.org/10.3390/data10120197">https://doi.org/10.3390/data10120197</a>
 
