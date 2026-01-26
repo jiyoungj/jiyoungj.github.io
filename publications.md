@@ -9,7 +9,7 @@ slug: /publications/
 
 <h4>2026</h4>
 
-  <b>Jang, J.</b>, Kim, S., Cutler, A., & Cho, T. When vowels glottalize without strictly aligning with prosodic boundaries: Marking prosodic structure in American and Australian English. <em>Linguistics Vanguard</em>. <a href="https://doi.org/10.1515/lingvan-2025-0005">https://doi.org/10.1515/lingvan-2025-0005</a>
+  <b>Jang, J.</b>, Kim, S., Cutler, A., & Cho, T. (2026). When vowels glottalize without strictly aligning with prosodic boundaries: Marking prosodic structure in American and Australian English. <em>Linguistics Vanguard</em>. <a href="https://doi.org/10.1515/lingvan-2025-0005">https://doi.org/10.1515/lingvan-2025-0005</a>
 
 <h4>2025</h4>
 
