@@ -9,9 +9,9 @@ slug: /publications/
 
 <h4>2026</h4>
 
-  <b>Jang, J.</b>, Kim, S., Cutler, A., & Cho, T. (2026, online first: 23 January 2026). When vowels glottalize without strictly aligning with prosodic boundaries: Marking prosodic structure in American and Australian English. <em>Linguistics Vanguard</em>. <a href="https://doi.org/10.1515/lingvan-2025-0005">https://doi.org/10.1515/lingvan-2025-0005</a>
+  <b>Jang, J.</b>, Kim, S., Cutler, A., & Cho, T. (2026). When vowels glottalize without strictly aligning with prosodic boundaries: Marking prosodic structure in American and Australian English. <em>Linguistics Vanguard</em>. <a href="https://doi.org/10.1515/lingvan-2025-0005">https://doi.org/10.1515/lingvan-2025-0005</a> (Online first: 23 January 2026)
 
-  <b>Jang, J.</b>, Lee, J., Lee, J., Kim, S., & Cho, T. (2026, online first: 17 December 2025). Unveiling denasalization as an ongoing sound change: The role of prosody and gender in Seoul Korean. <em>Language and Speech</em>. <a href="https://doi.org/10.1177/00238309251390431">https://doi.org/10.1177/00238309251390431</a>
+  <b>Jang, J.</b>, Lee, J., Lee, J., Kim, S., & Cho, T. (2026). Unveiling denasalization as an ongoing sound change: The role of prosody and gender in Seoul Korean. <em>Language and Speech</em>. <a href="https://doi.org/10.1177/00238309251390431">https://doi.org/10.1177/00238309251390431</a> (Online first: 17 December 2025)
 
 <h4>2025</h4>
 
