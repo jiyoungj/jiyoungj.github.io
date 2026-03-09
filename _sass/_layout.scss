@@ -1,3 +1,13 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
 /**
  * Site header
  */
@@ -134,7 +144,7 @@
   float: left;
   margin-bottom: $spacing-unit / 2;
   padding-left: $spacing-unit / 2;
-  verticle-align: middle; /* added */
+  vertical-align: middle; /* added */
 }
 
 .footer-col-1,
@@ -167,6 +177,7 @@
  */
 .page-content {
   padding: $spacing-unit 0;
+  flex: 1;
 }
 
 .page-heading {
