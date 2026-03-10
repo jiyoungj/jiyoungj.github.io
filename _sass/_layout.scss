@@ -116,7 +116,7 @@ body {
 .site-footer {
   border-top: 1px solid $grey-color-light;
   padding-top: 20px;
-  padding-bottom: 5px;
+  padding-bottom: 0px;
   /* padding: $spacing-unit 0; */
 
   @include media-query($on-mobile) {
