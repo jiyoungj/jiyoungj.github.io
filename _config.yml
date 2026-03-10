@@ -22,7 +22,7 @@ footer:
 #  “CONTACT” and “FOLLOW”: go to /_includes/footer.html and remove <!-- xxx --!>
   contact: 
     - name: Email
-      link: mailto:jiyoung@ucsb.edu
+      link: mailto:jiyoungljang@hanyang.ac.kr
 # follow:
 #    - name: GitHub
 #      link: https://github.com/YourUsername
