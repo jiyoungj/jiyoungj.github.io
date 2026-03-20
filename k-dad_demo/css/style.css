@@ -236,3 +236,24 @@ h3 + p {
   font-weight: 600;
   opacity: 1;
 }
+
+/* Back to top */
+.back-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  padding: 10px 15px;
+  background-color: #333;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-size: 14px;
+}
+
+.back-to-top:hover {
+  background-color: #555;
+}
+
+html {
+  scroll-behavior: smooth;
+}
