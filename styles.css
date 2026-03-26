@@ -281,3 +281,59 @@ footer {
   unicode-range: U+AC00-D7A3, U+1100-11FF, U+3130-318F;
   size-adjust: 130%;
 }
+
+/* 404 */
+
+.not-found {
+  min-height: calc(100vh - 56px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 2rem;
+}
+
+.not-found .code {
+  font-family: var(--serif);
+  font-size: 6rem;
+  font-weight: 300;
+  color: var(--light);
+  line-height: 1;
+  margin-bottom: 1rem;
+}
+
+.not-found h1 {
+  font-family: var(--sans);
+  font-size: 1.2rem;
+  font-weight: 400;
+  color: var(--muted);
+  margin-bottom: 0.6rem;
+}
+
+.not-found p {
+  font-size: 0.9rem;
+  color: var(--light);
+  margin-bottom: 2rem;
+}
+
+.not-found a.home-link {
+  font-family: var(--sans);
+  font-size: 0.85rem;
+  color: var(--muted);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(0,0,0,0.15);
+  padding-bottom: 2px;
+  transition: color 0.15s;
+}
+
+.not-found a.home-link:hover {
+  color: var(--text);
+}
+
+.not-found .divider {
+  width: 32px;
+  height: 1px;
+  background: rgba(0,0,0,0.1);
+  margin: 1.8rem auto;
+}
