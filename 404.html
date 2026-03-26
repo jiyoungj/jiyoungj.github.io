@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>404 – Jieun Jang</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,300;0,400;0,500;1,300;1,400&family=Poppins:wght@300;400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <style>
+    .not-found {
+      min-height: calc(100vh - 56px);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: 2rem;
+    }
+
+    .not-found .code {
+      font-family: var(--serif);
+      font-size: 6rem;
+      font-weight: 300;
+      color: var(--light);
+      line-height: 1;
+      margin-bottom: 1rem;
+    }
+
+    .not-found h1 {
+      font-family: var(--sans);
+      font-size: 1.2rem;
+      font-weight: 400;
+      color: var(--muted);
+      margin-bottom: 0.6rem;
+    }
+
+    .not-found p {
+      font-size: 0.9rem;
+      color: var(--light);
+      margin-bottom: 2rem;
+    }
+
+    .not-found a.home-link {
+      font-family: var(--sans);
+      font-size: 0.85rem;
+      color: var(--muted);
+      text-decoration: none;
+      border-bottom: 1px solid rgba(0,0,0,0.15);
+      padding-bottom: 2px;
+      transition: color 0.15s;
+    }
+
+    .not-found a.home-link:hover {
+      color: var(--text);
+    }
+
+    .not-found .divider {
+      width: 32px;
+      height: 1px;
+      background: rgba(0,0,0,0.1);
+      margin: 1.8rem auto;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav>
+    <div class="nav-inner">
+      <a class="nav-logo" href="index.html">장지은</a>
+      <ul class="nav-links">
+        <li><a href="index.html#about">About</a></li>
+        <li><a href="index.html#research">Research</a></li>
+        <li><a href="index.html#publications">Publications</a></li>
+        <li><a href="index.html#presentations">Presentations</a></li>
+        <li><a href="index.html#teaching">Teaching</a></li>
+        <li><a href="index.html#contact">Contact</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <div class="not-found">
+    <div class="code">404</div>
+    <h1>Page not found</h1>
+    <p>The page you're looking for doesn't exist or has been moved.</p>
+    <div class="divider"></div>
+    <a class="home-link" href="index.html">
+      <i class="fas fa-arrow-left" style="font-size:0.75em; margin-right:0.4em;"></i>Back to home
+    </a>
+  </div>
+
+</body>
+</html>
