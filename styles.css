@@ -282,6 +282,10 @@ footer {
   size-adjust: 130%;
 }
 
+.nav-toggle {
+  display: none;
+}
+
 /* Hamburger menu for mobile */
 
 @media (max-width: 680px) {
@@ -311,10 +315,6 @@ footer {
   .nav-links.open {
     display: flex;
   }
-}
-
-.nav-toggle {
-  display: none;
 }
 
 /* 404 */
