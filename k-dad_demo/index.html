@@ -1,131 +1,100 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <title>K-DAD</title>
-        <link rel="stylesheet" href="css/style.css">
-        <link rel="icon" type="image/png" href="images/favicon.png">
-        <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="K-DAD: Korean Dynamic Articulatory Database — Hanyang Institute for Phonetics and Cognitive Sciences of Language">
+  <title>K-DAD — Korean Dynamic Articulatory Database</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" type="image/png" href="images/favicon.png">
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
 
-    </head>
+<body>
+<div class="main-wrapper">
 
-    <body id="top">
-        <div class="main-wrapper">
-            <nav class="navbar">
-                <div class="nav-container">
-                    <div class="logo">Korean Dynamic Articulatory Database</div>
-                    <ul class="nav-links">
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="database.html">Descriptions</a></li>
-                    <li><a href="download.html">Downloads</a></li>
-                    <li><a href="login.html">Login</a></li>
-                    <li><a href="contact.html">Contact</a></li>
-                    </ul>
+  <nav class="navbar">
+    <div class="nav-container">
+      <div class="logo">Korean Dynamic Articulatory Database</div>
+      <ul class="nav-links">
+        <li><a href="index.html" class="active">Home</a></li>
+        <li><a href="pages/database.html">Description</a></li>
+        <li><a href="pages/download.html">Download</a></li>
+        <li><a href="pages/login.html">Login</a></li>
+        <li><a href="pages/contact.html">Contact</a></li>
+      </ul>
+      <div class="lang-toggle">
+        <a href="index.html" class="active">ENG</a>
+        <span>|</span>
+        <a href="index_kor.html">한국어</a>
+      </div>
+    </div>
+  </nav>
 
-                    <div class="lang-toggle">
-                    <a href="index.html" class="active">ENG</a>
-                    <span>|</span>
-                    <a href="index_kor.html">한국어</a>
-                    </div>
+  <div class="page-layout">
 
-                </div>
-            </nav>
+    <aside class="sidebar">
+      <h2>Home</h2>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#navigate">How to navigate</a></li>
+        <li><a href="#acknowledgements">Acknowledgements</a></li>
+        <li><a href="#citation">Citation info</a></li>
+      </ul>
+    </aside>
 
-        <div class="page-layout">
+    <section class="content">
 
-                <aside class="sidebar">
-                    <h2>Home</h2>
-                    <ul>
-                    <li><a href="#1">About the database</a></li>
-                    <li><a href="#2">Purpose</a></li>
-                    <li><a href="#3">How to navigate</a></li>
-                    <li><a href="#4">Acknowledgements</a></li>
-                    <li><a href="#5">Citation info</a></li>
-                    </ul>
-                </aside>
+      <h1>Korean Dynamic Articulatory Database</h1>
 
-            <section class="content">
+      <p>
+        K-DAD provides researchers with high-quality articulatory and acoustic data of Korean speech, collected under controlled experimental conditions at Hanyang University, Seoul.
+      </p>
 
-                <h1>Korean Dynamic Articulatory Database</h1>
-                    <p>
-                    The K-DAD database is a resource that integrates articulatory and acoustic data from Korean speech production. Using an Electromagnetic Articulograph, it directly tracks and records the movements of speech articulators during speech, providing synchronized acoustic information. The database is designed to support research on the phonetic and articulatory realization of Korean and to enhance the reproducibility of research findings.
-                    </p>
+      <h2 id="about" class="animate-on-scroll slide-in-left">About the database</h2>
+      <p class="animate-on-scroll fade-in delay-1">
+        This database provides a collection of speech recordings and articulatory data produced under controlled experimental conditions. The database includes annotated speech materials, metadata about speakers, and documentation describing the experimental design and data structure.
+      </p>
+      <p class="animate-on-scroll fade-in delay-2">
+        The goal of the database is to facilitate reproducible research and investigation of phonetic and articulatory realization in Korean.
+      </p>
 
-                <h2 id="1">About the database</h2>
-                <p>
-                    The Korean Dynamic Articulatory Database (K-DAD) is a large-scale linguistic resource that systematically documents both acoustic and articulatory properties of contemporary Korean speech. By employing an Electromagnetic Articulograph (EMA), the database captures the dynamic movements of speech articulators during natural speech production with high precision.
-                </p>
+      <h2 id="navigate" class="animate-on-scroll slide-in-left">How to navigate</h2>
+      <p class="animate-on-scroll fade-in delay-1">
+        Detailed documentation describing the structure and organization of the database can be found in the <a href="pages/database.html">Description</a> tab in the menu bar. To access the data, visit the <a href="pages/download.html">Download</a> page or log in to the <a href="pages/login.html">K-DAD portal</a>.
+      </p>
 
-                <p>
-                    This database expands the scope of Korean speech data in three key dimensions. First, it includes speakers across a wide age range—from their 20s to 60s—allowing for the investigation of generational variation. Second, it incorporates regional dialects from across Korea, capturing geographic variation. Third, it includes both native (L1) and non-native (L2) speakers, reflecting the global use of Korean.
-                </p>
+      <h2 id="acknowledgements" class="animate-on-scroll slide-in-left">Acknowledgements</h2>
+      <p class="animate-on-scroll fade-in delay-1">
+        The Korean Dynamic Articulatory Database (K-DAD) is developed and maintained by the Hanyang Institute for Phonetics and Cognitive Sciences of Language (HIPCS) at Hanyang University, Seoul, South Korea.
+      </p>
+      <p class="animate-on-scroll fade-in delay-2">
+        This work was supported by the National Research Foundation of Korea, under grant number [XXXX]. Additional support was provided by [XXXX].
+      </p>
+      <p class="animate-on-scroll fade-in delay-3">
+        We also thank the researchers and participants who contributed to the data collection process.
+      </p>
 
-                <p>
-                    As such, this database represents the first large-scale effort to directly record articulatory movements in Korean speech, giving it important historical and scientific value. It is also a comprehensive speech database that integrates articulatory and acoustic information at the sentence level.
-                </p>
+      <h2 id="citation" class="animate-on-scroll slide-in-left">Citation information</h2>
+      <p class="animate-on-scroll fade-in delay-1">
+        If you use this database in your research, please cite it using the reference below:
+      </p>
+      <div class="citation-block animate-on-scroll scale-in delay-2">
+        <span id="citation-text">Hanyang Institute for Phonetics and Cognitive Sciences of Language. (2022). <i>Dynamics of speech production through articulatory DB construction.</i></span>
+        <button class="btn-copy" id="copy-citation">Copy</button>
+      </div>
 
-                <p>
-                    The database includes annotated speech data, speaker metadata, and documentation describing the experimental design and data structure. The accompanying web interface is designed to be user-friendly, allowing researchers to easily access and utilize the data.
-                </p>
+    </section>
+  </div>
 
-                <h2 id="2">Purpose</h2>
-                <p>
-                    The main objectives of this database are as follows:
-                </p>
+  <div class="last-updated">Last updated: March 9, 2026</div>
 
-                <p>
-                    First, to systematically document the articulatory and acoustic characteristics of Korean speech and to provide a detailed account of the dynamic processes underlying speech production. In particular, the database aims to capture variation across age, gender, region, and language background, offering a multi-dimensional representation of contemporary Korean.
-                </p>
+</div>
 
-                <p>
-                    Second, to make the data publicly accessible to researchers worldwide through a web-based platform, thereby improving accessibility to high-quality Korean speech data. Despite growing global interest in Korean, there remains a lack of accessible resources that reflect naturally produced, contemporary speech. This database seeks to fill that gap and contribute to the internationalization of Korean linguistics research.
-                </p>
+<footer class="footer">
+  <p>HIPCS &mdash; Korean Dynamic Articulatory Database &copy; 2026</p>
+</footer>
 
-                <p>
-                    Third, to go beyond simple data sharing by providing richly annotated articulatory and acoustic data, as well as tools for data exploration and analysis. By doing so, the database aims to serve as a research infrastructure for a wide range of fields, including linguistics, phonetics, Korean language studies, and speech engineering.
-                </p>
-
-                <h2 id="3">How to navigate</h2>
-                <p>
-                    Detailed documentation describing the structure and organization of the database can be found in the "Descriptions" page. You can download the full dataset or data by speaker group from the "Downloads" page. To access the online portal for analyzing articulatory data from this dataset, click the "Login" tab on the menu bar.
-                </p>
-
-                <h2 id="4">Acknowledgements</h2>
-                <p>
-                    The Korean Dynamic Articulatory Database (K-DAD) is developed and maintained by
-                    the Hanyang Institute for Phonetics and Cognitive Sciences of Language at Hanyang University, Seoul, South Korea. 
-                </p>
-
-                <p>
-                    This work was supported by the National Research Foundation of Korea, under grant number [XXXX]. Additional support was provided by [XXXX].
-                </p>
-
-                <p>
-                    We also thank the researchers and participants who contributed to the data collection process.
-                </p>
-
-                <h2 id="5">Citation information</h2>
-                <p>
-                    If you use this database, please cite the database according to the citation guidelines provided below: <br>
-                </p>
-
-                <div class="card">
-                    TBA.
-                </div>
-
-            </section>
-        </div>
-        
-        <div class="last-updated">
-            Last updated: March 23, 2026
-        </div>
-
-        <a href="#top" class="back-to-top">▲ Top</a>
-
-        </div>
-
-        <footer class="footer">
-            <p>HIPCS — Korean Dynamic Articulatory Database © 2026</p>
-        </footer>
-
-    </body>
+<script src="js/script.js" defer></script>
+</body>
 </html>
