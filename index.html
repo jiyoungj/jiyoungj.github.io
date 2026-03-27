@@ -15,6 +15,9 @@
   <nav>
     <div class="nav-inner">
       <a class="nav-logo" href="https://jiyoungj.github.io/">장지영</a>
+      <button class="nav-toggle" id="nav-toggle" aria-label="Toggle menu">
+      <i class="fas fa-bars"></i>
+      </button>
       <ul class="nav-links">
         <li><a href="https://jiyoungj.github.io/#publications">Publications</a></li>
         <li><a href="https://jiyoungj.github.io/#presentations">Presentations</a></li>
@@ -270,6 +273,20 @@
   <footer>
     &copy; Jiyoung Jang · 2026
   </footer>
+
+  <script>
+    const toggle = document.getElementById('nav-toggle');
+    const links = document.getElementById('nav-links');
+
+    toggle.addEventListener('click', () => {
+      links.classList.toggle('open');
+    });
+
+    // Close menu when a link is clicked
+    links.querySelectorAll('a').forEach(a => {
+      a.addEventListener('click', () => links.classList.remove('open'));
+    });
+  </script>
 
 </body>
 </html>

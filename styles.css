@@ -282,6 +282,41 @@ footer {
   size-adjust: 130%;
 }
 
+/* Hamburger menu for mobile */
+
+@media (max-width: 680px) {
+  .nav-toggle {
+    display: block;
+    background: none;
+    border: none;
+    font-size: 1.2rem;
+    color: var(--muted);
+    cursor: pointer;
+  }
+
+  .nav-links {
+    display: none;
+    flex-direction: column;
+    position: absolute;
+    top: 56px;
+    left: 0;
+    right: 0;
+    background: var(--bg);
+    padding: 1rem 2rem;
+    gap: 1rem;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    z-index: 99;
+  }
+
+  .nav-links.open {
+    display: flex;
+  }
+}
+
+.nav-toggle {
+  display: none;
+}
+
 /* 404 */
 
 .not-found {
