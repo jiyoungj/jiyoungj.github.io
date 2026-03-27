@@ -297,8 +297,8 @@ footer {
     background: var(--bg);
     padding: 1rem 2rem;
     gap: 1rem;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
     z-index: 99;
+    text-align: right;
   }
 
   .nav-links.open {
