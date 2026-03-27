@@ -286,7 +286,7 @@ footer {
   display: none;
 }
 
-/* Hamburger menu for mobile */
+/* MENU FOR MOBILE */
 
 @media (max-width: 680px) {
   .nav-toggle {
@@ -314,6 +314,16 @@ footer {
 
   .nav-links.open {
     display: flex;
+  }
+
+  #back-to-top {
+    bottom: 16px;
+    right: 16px;
+    font-size: 0;        /* hides "Back to top" text */
+  }
+
+  #back-to-top i {
+    font-size: 1rem;     /* but keeps the icon visible */
   }
 }
 
