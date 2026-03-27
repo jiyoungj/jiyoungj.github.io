@@ -256,6 +256,10 @@ footer {
   font-size: 0.9em;
 }
 
+.nav-toggle {
+  display: none;
+}
+
 /* ── RESPONSIVE ── */
 @media (max-width: 680px) {
   .page-wrapper {
@@ -273,22 +277,7 @@ footer {
 
   .sidebar-img { width: 150px; }
   .social-icons { justify-content: center; }
-}
 
-@font-face {
-  font-family: 'East Sea Dokdo';
-  src: local('East Sea Dokdo');
-  unicode-range: U+AC00-D7A3, U+1100-11FF, U+3130-318F;
-  size-adjust: 130%;
-}
-
-.nav-toggle {
-  display: none;
-}
-
-/* MENU FOR MOBILE */
-
-@media (max-width: 680px) {
   .nav-toggle {
     display: block;
     background: none;
@@ -325,6 +314,13 @@ footer {
   #back-to-top i {
     font-size: 1rem;     /* but keeps the icon visible */
   }
+}
+
+@font-face {
+  font-family: 'East Sea Dokdo';
+  src: local('East Sea Dokdo');
+  unicode-range: U+AC00-D7A3, U+1100-11FF, U+3130-318F;
+  size-adjust: 130%;
 }
 
 /* 404 */
