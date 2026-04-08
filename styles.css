@@ -198,7 +198,7 @@ a:hover { color: var(--muted);
   margin-bottom: 1.1rem;
   padding-left: 1.1rem;
   position: relative;
-  font-size: 0.9rem;
+  font-size: 0.85rem;
 }
 .pub-list li::before {
   content: "";
