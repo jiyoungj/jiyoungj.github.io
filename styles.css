@@ -1,7 +1,7 @@
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
 :root {
-  --serif: 'EB Garamond', 'KoreanSerif', Georgia, serif;
+  --serif: 'Source Serif 4', 'KoreanSerif', Georgia, serif;
   --sans: 'Poppins', 'KoreanSerif', sans-serif;
   --text: #1a1a1a;
   --muted: #555;
