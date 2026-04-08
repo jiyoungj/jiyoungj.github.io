@@ -237,6 +237,7 @@ h3:first-child { margin-top: 0; }
 /* ── FOOTER ── */
 
 footer {
+  max-width: 980px;
   position: fixed;
   bottom: 1.5rem;
   left: 50%;
