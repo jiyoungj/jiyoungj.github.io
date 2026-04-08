@@ -225,6 +225,7 @@ h3:first-child { margin-top: 0; }
   margin-bottom: 0.1rem;
   padding-left: 1.1rem;
   position: relative;
+  font-size: 0.85rem;
 }
 .sub-list li::before {
   content: "•";
