@@ -240,9 +240,8 @@ footer {
   max-width: 980px;
   position: fixed;
   bottom: 1.5rem;
-  left: 50%;
+  left: max(2rem, calc(50% - 490px));
   padding: 0 2rem 0;
-  transform: translateX(-50%);
   font-size: 0.8rem;
   color: var(--light);
 }
