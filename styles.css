@@ -315,6 +315,11 @@ footer {
   #back-to-top i {
     font-size: 1rem;     /* but keeps the icon visible */
   }
+
+  footer {
+    position: static;
+    padding: 0 2rem 2rem;
+  }
 }
 
 @font-face {
