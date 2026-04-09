@@ -242,7 +242,7 @@ footer {
   bottom: 1.5rem;
   left: 50%;
   padding: 0 2rem 0;
-  transform: translateX(-490px);
+  transform: translateX(-50%);
   font-size: 0.8rem;
   color: var(--light);
 }
