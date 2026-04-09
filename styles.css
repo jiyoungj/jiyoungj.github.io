@@ -250,7 +250,7 @@ footer {
 #back-to-top {
   position: fixed;
   bottom: 20px;
-  right: 120px;
+  right: max(0rem, calc(50% - 490px));
   color: #333;
   padding: 10px 14px;
   text-decoration: none;
